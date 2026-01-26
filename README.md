@@ -21,17 +21,13 @@ Este desarrollo demuestra mi capacidad para manejar stacks modernos y escalables
 
 ## Instalación y Uso
 
-Si deseas ejecutar este proyecto de forma local:
+Seguí estos pasos para ejecutar el proyecto en tu entorno local:
 
-1. Clonar el repositorio:
+1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/mateoareosa/vitalsmile.git](https://github.com/mateoareosa/vitalsmile.git)
-Instalar las dependencias:
-
-Bash
-npm install
-Iniciar el servidor de desarrollo:
-
-Bash
-npm run dev
-Abre http://localhost:3000 en tu navegador para ver el resultado.
+   npm install
+   npm run dev
+   ```
+   
+   Abre http://localhost:3000 en tu navegador para ver el resultado.
