@@ -1077,7 +1077,7 @@ const ContactForm = () => {
 const Footer = () => (
   <footer className="bg-white border-t border-slate-200 py-12 text-center">
     <p className="text-slate-500">
-      © 2026 Todos los derechos reservados. Desarrollado por{"Mateo Areosa "}
+      © 2026 Todos los derechos reservados. Desarrollado por {"Mateo Areosa "}
     </p>
   </footer>
 );
